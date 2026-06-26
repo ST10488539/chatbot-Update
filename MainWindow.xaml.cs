@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Threading;
 
 namespace WpfApp1
-{
+{ 
     public partial class MainWindow : Window
     {
         private ResponseHandler botBrain = new ResponseHandler();
