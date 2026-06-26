@@ -14,6 +14,6 @@ namespace WpfApp1
             Text = text;
             // Automatically records the current time (e.g., 13:24)
             Timestamp = DateTime.Now.ToString("HH:mm");
-        }
+         }
     }
 }
